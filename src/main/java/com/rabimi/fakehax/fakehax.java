@@ -29,8 +29,9 @@ public class fakehax implements ClientModInitializer {
             String[] cheatLines = {
                 "§c§lMarlow Client §7v8.1.0", // 赤色・太字のクライアント名
                 "§fFPS: §a" + client.getCurrentFps(), // FPS表示
-                "§fModules: §7[§aFly§7] [§aKillAura§7] [§aESP§7]", // 有効化されてる風の機能
+                "§fModules: §7[§aAntiKB§7] [§aKillAura§7] [§aReach§7] [§aAimBot§7] [§aVelocity§7] [§aAutoCrystal§7] [§aAutoSafeAnchor§7]", // 有効化されてる風の機能
                 "§fTarget: §4None" // ターゲット
+                "§fCreated: §4Marlowww"
             };
 
             // 右上から下に並べて描画していく
