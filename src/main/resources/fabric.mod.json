@@ -6,8 +6,8 @@
   "description": "自分用",
   "authors": ["RabimiMods"],
   "contact": {
-    "homepage": "https://github.com/RabimiMod/JapanChat",
-    "sources": "https://github.com/RabimiMods/JapanChat/"
+    "homepage": "https://github.com/RabimiMod/FakeHax",
+    "sources": "https://github.com/RabimiMods/FakeHax/"
   },
   "entrypoints": {
     "client": [
