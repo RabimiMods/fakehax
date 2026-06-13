@@ -27,7 +27,7 @@ public class ExampleModClient implements ClientModInitializer {
 
             // --- 表示したい文字列のリスト（チート風） ---
             String[] cheatLines = {
-                "§c§lNipponClient §7v1.0.0", // 赤色・太字のクライアント名
+                "§c§lMarlow Client §7v8.1.0", // 赤色・太字のクライアント名
                 "§fFPS: §a" + MinecraftClient.getCurrentFps(), // FPS表示
                 "§fModules: §7[§aFly§7] [§aKillAura§7] [§aESP§7]", // 有効化されてる風の機能
                 "§fTarget: §4None" // ターゲット
