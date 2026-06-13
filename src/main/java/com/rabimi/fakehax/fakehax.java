@@ -7,7 +7,7 @@ import net.minecraft.client.font.TextRenderer;
 import net.minecraft.client.gui.DrawContext;
 import java.awt.Color;
 
-public class ExampleModClient implements ClientModInitializer {
+public class fakehax implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
