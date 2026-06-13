@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "japanchat",
-  "version": "1.1.2",
-  "name": "JapanChat",
+  "id": "marlowww_clienr",
+  "version": "1.21.11",
+  "name": "FakeHax - Marlow Client",
   "description": "自分用",
   "authors": ["RabimiMods"],
   "contact": {
@@ -11,7 +11,7 @@
   },
   "entrypoints": {
     "client": [
-      "com.rabimi.japanchat.JapanChat"
+      "com.rabimi.fakehax.fakehax"
     ]
   },
   "depends": {
